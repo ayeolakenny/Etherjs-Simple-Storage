@@ -1,0 +1,5 @@
+time-frame: 7:07:45
+check around 7 hours time frame sha
+
+to compile with solc
+	yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleStorage.sol
